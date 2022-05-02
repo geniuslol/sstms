@@ -1,0 +1,40 @@
+h1 {
+    text-align:center;
+}
+h3 {
+    text-align:center;
+}
+#summary {
+    text-align:center;
+}
+#tos {
+    text-align: center;
+}
+#aoe {
+    text-align: center;
+}
+#solutions {
+    text-align: center;
+}
+.bigbreak {
+    padding-bottom:60px;
+    font-size:20px;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: "Poppins", serif !important;
+}
+#foot {
+    background-color:#222222;
+    height:20%;
+    position: fixed;
+    bottom: 0;
+    width: 100%; 
+    color:white;
+    font-size:20px;
+}
+.biggestbreak {
+    padding-bottom:200px;
+}
